@@ -1,2 +1,4 @@
 # sd-les-3
-Test
+Test 
+## Mijn aanpassing
+- README bijgewerkt op <27-9-2026>
